@@ -1,0 +1,8 @@
+*.zip
+*.csv
+*.txt
+*.npy
+*.bak
+test/
+train/
+cnn/
