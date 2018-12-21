@@ -1,0 +1,2 @@
+# ML-assgn-4
+Assignment 4 of the graduate level Machine Learning Course. Objective of assignment was to make models that predict object given hand-drawn images of object. First part of assignment consisted of KMeans, PCA, and CNN models for task. Second part was an open ended private Kaggle competition. Submitted model was an ensemble of AlexNet and VGGNet inspired models. Attained 23 rank out of 160 in leaderboard.
